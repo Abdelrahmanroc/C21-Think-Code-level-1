@@ -20,7 +20,7 @@ if Message=="ja":
 else: 
 	print("geef niks , ik heb een goed idee , we gaan naar Mcdonlads toe want ik heb honger !")
 
-print("Nice om te horen :)")
+print("Nice om te horen :)") 
 
 
 
